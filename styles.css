@@ -1,0 +1,38 @@
+*
+{
+    background-color:rgba(190, 240, 240, 0.884);
+    font-family: sans-serif;
+   
+}
+.container{
+width: 100%;
+height: 100%;
+
+}
+.results
+{
+padding-left: 35%;
+color: rgb(35, 65, 145);
+}
+.choices
+{
+display: flex;
+justify-content:center;
+gap: 80px;
+
+}
+.verdict
+{
+padding-left: 35%;
+color: orangered;
+}
+
+button
+{
+    width: 100px;
+    height: 50px;
+    border-radius: 25%;
+    border-color: cyan;
+    color: white;
+    font-size: large;
+}
